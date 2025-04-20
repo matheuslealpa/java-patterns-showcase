@@ -1,0 +1,6 @@
+-Abstract factory
+-Proxy
+-Observer
+-Dependency Injection
+-Decorator
+-Strategy
