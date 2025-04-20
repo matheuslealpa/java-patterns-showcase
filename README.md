@@ -9,6 +9,7 @@ Este repositório é estruturado como um projeto multi-módulo Maven. Cada módu
 ### Módulos disponíveis
 
 - `factory-method`: Demonstra a criação de objetos utilizando o padrão Factory Method com uso moderno de `static of()` por exemplo.
+- `builder`: Demonstra a criação de objetos complexos passo a passo com o padrão **Builder**, utilizando como exemplo a construção de um objeto `Carro`.
 
 ## Execução
 
