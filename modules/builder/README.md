@@ -8,7 +8,7 @@ O padrão Builder permite a criação de objetos complexos passo a passo, com ma
 
 ---
 
-## 🚗 Exemplo: Carro
+## Exemplo: Carro
 
 A classe `Carro` possui os seguintes atributos:
 
