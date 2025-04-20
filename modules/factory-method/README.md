@@ -17,5 +17,5 @@ Neste módulo, temos os seguintes tipos de notificação implementados:
 A classe `NotificationFactory` encapsula a lógica de criação com base no tipo solicitado:
 
 ```java
-Notification notification = NotificationFactory.create(NotificationType.EMAIL);
+Notification notification = NotificationFactory.of(NotificationType.EMAIL);
 notification.send("Mensagem de teste");
