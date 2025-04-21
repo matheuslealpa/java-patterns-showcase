@@ -11,6 +11,8 @@ Este repositório é estruturado como um projeto multi-módulo Maven. Cada módu
 - `factory-method`: Demonstra a criação de objetos utilizando o padrão Factory Method com uso moderno de `static of()` por exemplo.
 - `builder`: Demonstra a criação de objetos complexos passo a passo com o padrão **Builder**, utilizando como exemplo a construção de um objeto `Carro`.
 - `abstract-factory`: Demonstra a criação de fabrica de familias de objetos correlacionados.
+- `proxy`: Demonstra o uso do padrão Proxy para encapsular chamadas a serviços externos, adicionando controle de acesso, fallback e logging sem modificar a implementação original.
+
 ## Execução
 
 Para executar um módulo específico (ex: `factory-method`), use:
