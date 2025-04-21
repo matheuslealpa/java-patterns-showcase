@@ -12,6 +12,7 @@
         <groupId>com.exemplo</groupId>
         <artifactId>java-patterns-showcase</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
     <dependencies>
