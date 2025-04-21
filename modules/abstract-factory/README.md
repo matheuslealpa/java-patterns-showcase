@@ -35,16 +35,6 @@ Cadeira <|.. VictorianCadeira
 Sofa <|.. ModernSofa
 Sofa <|.. VictorianSofa
 
-ModernMobiliaFactory *-- ModernCadeira : creates
-ModernMobiliaFactory *-- ModernSofa    : creates
-VictorianMobiliaFactory *-- VictorianCadeira : creates
-VictorianMobiliaFactory *-- VictorianSofa    : creates
-
-class Main {
-  + main(args: String[]): void
-}
-Main ..> MobiliaFactory : uses
-
 @enduml
 ```
 
