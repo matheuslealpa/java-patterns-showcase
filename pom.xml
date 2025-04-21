@@ -14,6 +14,7 @@
         <module>modules/factory-method</module>
         <module>modules/builder</module>
         <module>modules/abstract-factory</module>
+        <module>modules/proxy</module>
     </modules>
 
     <dependencyManagement>
