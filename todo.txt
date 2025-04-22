@@ -1,4 +1,3 @@
--Proxy
 -Observer
 -Facade
 -Dependency Injection

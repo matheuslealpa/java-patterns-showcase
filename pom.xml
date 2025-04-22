@@ -15,6 +15,7 @@
         <module>modules/builder</module>
         <module>modules/abstract-factory</module>
         <module>modules/proxy</module>
+        <module>modules/observer</module>
     </modules>
 
     <dependencyManagement>
